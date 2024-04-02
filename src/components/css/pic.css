@@ -1,0 +1,38 @@
+.contentbox{
+    /* top:100px; */
+    width:250px;
+    height: 200px;
+    margin-right:40px;
+    margin-left:60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: relative;
+    display: inline-block;
+    box-shadow: 5px 5px 10px 0px lightgray;
+    border-radius:10px;
+    transition: 0.3s;
+}
+.contentbox img{
+    width: 100%;
+}
+.contentbox h2{
+    color:black;
+    font-size:20px;
+    margin: 5px;
+    letter-spacing: 2px;
+}
+
+.contentbox h2::after{
+    content:'';
+    background-color: rgba(32, 49, 178, 0.352);
+    width: 120px;
+    height: 4px;
+    position:absolute;
+    left:2%;
+    bottom:10px;
+}
+
+.contentbox:hover{
+    scale: 0.97;
+    box-shadow: none;
+}

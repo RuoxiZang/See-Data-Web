@@ -1,0 +1,52 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="296" height="167" viewBox="0 0 296 167">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="214.551" height="97.425" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="14" height="111" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="组_13817" data-name="组 13817" transform="translate(-76 -161)">
+    <path id="矩形_7134" data-name="矩形 7134" d="M12,0H284a12,12,0,0,1,12,12V167a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V12A12,12,0,0,1,12,0Z" transform="translate(76 161)" fill="#fdfdfd"/>
+    <g id="组_11097" data-name="组 11097" transform="translate(-1868.027 -670.141)">
+      <g id="重复网格_20" data-name="重复网格 20" transform="translate(1990.819 863.428)" clip-path="url(#clip-path)">
+        <g transform="translate(-443.179 -828.164)">
+          <path id="路径_16301" data-name="路径 16301" d="M379.179,785.664H634.225" transform="translate(64 43)" fill="none" stroke="#e4e5e6" stroke-width="0.5" stroke-dasharray="4"/>
+        </g>
+        <g transform="translate(-443.179 -796.164)">
+          <path id="路径_16301-2" data-name="路径 16301" d="M379.179,785.664H634.225" transform="translate(64 43)" fill="none" stroke="#e4e5e6" stroke-width="0.5" stroke-dasharray="4"/>
+        </g>
+        <g transform="translate(-443.179 -764.164)">
+          <path id="路径_16301-3" data-name="路径 16301" d="M379.179,785.664H634.225" transform="translate(64 43)" fill="none" stroke="#e4e5e6" stroke-width="0.5" stroke-dasharray="4"/>
+        </g>
+        <g transform="translate(-443.179 -732.164)">
+          <path id="路径_16301-4" data-name="路径 16301" d="M379.179,785.664H634.225" transform="translate(64 43)" fill="none" stroke="#e4e5e6" stroke-width="0.5" stroke-dasharray="4"/>
+        </g>
+      </g>
+      <g id="重复网格_21" data-name="重复网格 21" transform="translate(1968.685 855.141)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-443 -599)">
+          <text id="_30" data-name="30" transform="translate(457 612)" fill="#9f9f9f" font-size="12" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-14.074" y="0">30</tspan></text>
+        </g>
+        <g transform="translate(-443 -567)">
+          <text id="_20" data-name="20" transform="translate(457 612)" fill="#9f9f9f" font-size="12" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-14.074" y="0">20</tspan></text>
+        </g>
+        <g transform="translate(-443 -535)">
+          <text id="_10" data-name="10" transform="translate(457 612)" fill="#9f9f9f" font-size="12" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-14.074" y="0">10</tspan></text>
+        </g>
+        <g transform="translate(-443 -503)">
+          <text id="_0" data-name="0" transform="translate(457 612)" fill="#9f9f9f" font-size="12" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-7.037" y="0">0</tspan></text>
+        </g>
+      </g>
+      <text id="A" transform="translate(2005.027 977.142)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-7.74" y="0">A</tspan></text>
+      <text id="B" transform="translate(2066.027 977.142)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-6.902" y="0">B</tspan></text>
+      <text id="C" transform="translate(2129.028 977.142)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-7.358" y="0">C</tspan></text>
+      <text id="D" transform="translate(2199.027 977.142)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-8.379" y="0">D</tspan></text>
+      <path id="路径_25276" data-name="路径 25276" d="M1436.658,10561.652l-68.7,31.89-63.124-19.779-63.312,19.779v28.822l64.912-10.359,62.558,9.078,67.663-22.209Z" transform="translate(759.075 -9679.852)" fill="rgba(18,95,253,0.2)"/>
+      <path id="路径_17719" data-name="路径 17719" d="M1241.605,10593.341l63.232-19.578,63.124,19.779,68.7-31.89" transform="translate(759.075 -9679.851)" fill="none" stroke="#2463f4" stroke-width="2"/>
+      <path id="路径_17720" data-name="路径 17720" d="M1241.954,10629.856l63.789-9.749,62.93,9.107,67.551-21.9" transform="translate(759.075 -9688.318)" fill="none" stroke="#3ce4da" stroke-width="2"/>
+      <path id="路径_25277" data-name="路径 25277" d="M1436.661,10607.307l-67.988,21.908-62.93-9.107-64.363,9.98v18.056l195.281,0Z" transform="translate(759.075 -9688.318)" fill="#3ce4da" opacity="0.596"/>
+    </g>
+  </g>
+</svg>

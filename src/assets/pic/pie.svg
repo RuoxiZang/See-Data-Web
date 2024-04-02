@@ -1,0 +1,44 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="296" height="167" viewBox="0 0 296 167">
+  <g id="组_13800" data-name="组 13800" transform="translate(-89 -161)">
+    <path id="矩形_7134" data-name="矩形 7134" d="M12,0H284a12,12,0,0,1,12,12V167a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V12A12,12,0,0,1,12,0Z" transform="translate(89 161)" fill="#fdfdfd"/>
+    <g id="组_227" data-name="组 227" transform="translate(173.556 180.184)">
+      <g id="组_226" data-name="组 226">
+        <g id="组_225" data-name="组 225">
+          <g id="组_224" data-name="组 224">
+            <path id="路径_225" data-name="路径 225" d="M3520.833-307.069l-63.546-20.651a65.781,65.781,0,0,1,63.546-46.179Z" transform="translate(-3457.286 373.903)" fill="#fd7a82" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="组_231" data-name="组 231" transform="translate(170.048 226.365)">
+      <g id="组_230" data-name="组 230">
+        <g id="组_229" data-name="组 229">
+          <g id="组_228" data-name="组 228">
+            <path id="路径_226" data-name="路径 226" d="M3522.193-324.909l39.281,54.067a66.83,66.83,0,0,1-93.348-14.785,64.815,64.815,0,0,1-9.494-59.932Z" transform="translate(-3455.133 345.56)" fill="#3be4df" stroke="#fcfcfc" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="组_235" data-name="组 235" transform="translate(237.105 180.188)">
+      <g id="组_234" data-name="组 234">
+        <g id="组_233" data-name="组 233">
+          <g id="组_232" data-name="组 232">
+            <path id="路径_227" data-name="路径 227" d="M3496.288-307.07V-373.9a66.833,66.833,0,0,1,66.838,66.823v.007A64.81,64.81,0,0,1,3535.577-253Z" transform="translate(-3496.288 373.9)" fill="#2e5ef3" stroke="#fcfcfc" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="组_236" data-name="组 236" transform="translate(264.887 226.876)">
+      <g id="A" style="isolation: isolate">
+        <text id="A-2" data-name="A" transform="translate(0 19)" fill="#fff" font-size="12" font-family="MicrosoftYaHei, Microsoft YaHei" style="isolation: isolate"><tspan x="0" y="0">A</tspan></text>
+      </g>
+    </g>
+    <g id="组_237" data-name="组 237" transform="translate(210.76 260.881)">
+      <g id="B" style="isolation: isolate">
+        <text id="B-2" data-name="B" transform="translate(2 18)" fill="#fff" font-size="12" font-family="MicrosoftYaHei, Microsoft YaHei" style="isolation: isolate"><tspan x="0" y="0">B</tspan></text>
+      </g>
+    </g>
+    <text id="C" transform="translate(208.759 221.068)" fill="#fff" font-size="12" font-family="MicrosoftYaHei, Microsoft YaHei" style="isolation: isolate"><tspan x="0" y="0">C</tspan></text>
+  </g>
+</svg>
