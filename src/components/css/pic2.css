@@ -1,0 +1,41 @@
+.contentbox2{
+    /* top:100px; */
+    width:150px;
+    height: 130px;
+    margin-right:20px;
+    margin-left:35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(230, 234, 239);
+    box-shadow: 3px 3px 3px 0px lightgray;
+    border-radius:10px;
+    transition: 0.3s;
+}
+.contentbox2 img{
+    width: 100%;
+}
+.contentbox2 h2{
+    color:black;
+    font-size:12px;
+    margin: 5px;
+    letter-spacing: 2px;
+}
+
+.contentbox2 h2::after{
+    content:'';
+    background-color: rgba(32, 49, 178, 0.352);
+    width: 120px;
+    height: 4px;
+    position:absolute;
+    left:2%;
+    bottom:10px;
+}
+
+.contentbox2:hover{
+    scale: 0.97;
+    box-shadow: none;
+}

@@ -1,0 +1,39 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="296" height="167" viewBox="0 0 296 167">
+  <g id="组_13818" data-name="组 13818" transform="translate(-117 -161)">
+    <path id="矩形_7134" data-name="矩形 7134" d="M12,0H284a12,12,0,0,1,12,12V167a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V12A12,12,0,0,1,12,0Z" transform="translate(117 161)" fill="#fdfdfd"/>
+    <g id="组_11096" data-name="组 11096" transform="translate(-1045.972 -508.754)">
+      <g id="组_10038" data-name="组 10038" transform="translate(1254.688 697.54)">
+        <g id="椭圆_1121" data-name="椭圆 1121" transform="translate(0.116 0.363)" fill="none" stroke="#edf0f5" stroke-width="1">
+          <circle cx="56.712" cy="56.712" r="56.712" stroke="none"/>
+          <circle cx="56.712" cy="56.712" r="56.212" fill="none"/>
+        </g>
+        <g id="椭圆_1122" data-name="椭圆 1122" transform="translate(15.18 15.427)" fill="none" stroke="#edf0f5" stroke-width="1">
+          <circle cx="41.648" cy="41.648" r="41.648" stroke="none"/>
+          <circle cx="41.648" cy="41.648" r="41.148" fill="none"/>
+        </g>
+        <g id="椭圆_1123" data-name="椭圆 1123" transform="translate(31.13 31.378)" fill="none" stroke="#edf0f5" stroke-width="1">
+          <circle cx="25.698" cy="25.698" r="25.698" stroke="none"/>
+          <circle cx="25.698" cy="25.698" r="25.198" fill="none"/>
+        </g>
+        <g id="椭圆_1124" data-name="椭圆 1124" transform="translate(46.194 46.442)" fill="none" stroke="#edf0f5" stroke-width="1">
+          <circle cx="10.634" cy="10.634" r="10.634" stroke="none"/>
+          <circle cx="10.634" cy="10.634" r="10.134" fill="none"/>
+        </g>
+        <path id="路径_17714" data-name="路径 17714" d="M1308,10539v113.654" transform="translate(-1251.172 -10539)" fill="none" stroke="#edf0f5" stroke-width="1"/>
+        <path id="路径_17715" data-name="路径 17715" d="M0,0V113.655" transform="translate(113.655 56.827) rotate(90)" fill="none" stroke="#edf0f5" stroke-width="1"/>
+        <path id="路径_17716" data-name="路径 17716" d="M0,0V113.655" transform="translate(97.011 16.644) rotate(45)" fill="none" stroke="#edf0f5" stroke-width="1"/>
+        <path id="路径_17717" data-name="路径 17717" d="M0,0V113.655" transform="translate(97.011 97.01) rotate(135)" fill="none" stroke="#edf0f5" stroke-width="1"/>
+        <path id="路径_17718" data-name="路径 17718" d="M1330.087,10567.44l-32.679-9.113-34.5,6.2-10.732,34.968,10.732,34.679,35.4,14.5,29.35-19.6,17.729-29.572Z" transform="translate(-1241.094 -10542.791)" fill="rgba(46,94,243,0.4)" stroke="#125ffd" stroke-width="1"/>
+      </g>
+      <text id="E" transform="translate(1315.301 825.1)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-6.048" y="0">E</tspan></text>
+      <text id="G" transform="translate(1251.5 757.345)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-8.18" y="0">G</tspan></text>
+      <text id="H" transform="translate(1267.336 711.266)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-8.508" y="0">H</tspan></text>
+      <text id="F" transform="translate(1266.223 800.765)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-5.844" y="0">F</tspan></text>
+      <text id="B" transform="translate(1363.493 712.266)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-6.902" y="0">B</tspan></text>
+      <text id="D" transform="translate(1363.607 801.765)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-8.379" y="0">D</tspan></text>
+      <text id="C" transform="translate(1379.443 758.345)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-7.358" y="0">C</tspan></text>
+      <text id="A" transform="translate(1315.415 691.59)" fill="#b4bcc7" font-size="11" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="-7.74" y="0">A</tspan></text>
+    </g>
+  </g>
+</svg>
